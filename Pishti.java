@@ -84,7 +84,7 @@ public class Pishti {
             i++;
 
         }
-// Ordering process of the elements of the deck I defined upwards in "for" loop ,
+// Ordering process of the elements of the deck I defined upwards in "while" loop ,
         TypeofJokers[0]=("Spades -11");
         TypeofJokers[1]=("Hearts -11");
         TypeofJokers[2]=("Clubs -11");
